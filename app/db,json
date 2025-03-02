@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "The Future of Web Development",
+    "description": "Explore the latest trends and technologies shaping the future of web development.",
+    "image": "https://example.com/blog1.jpg",
+    "author": "John Doe",
+    "publishedDate": "2025-02-23",
+    "category": "Web Development",
+    "readingTime": "5 min read",
+    "likes": 120,
+    "comments": 15,
+    "url": "https://example.com/blog/the-future-of-web-development"
+  },
+  {
+    "id": 2,
+    "title": "Mastering React Native UI",
+    "description": "Learn how to build stunning mobile applications with React Native UI components.",
+    "image": "https://example.com/blog2.jpg",
+    "author": "Jane Smith",
+    "publishedDate": "2025-02-20",
+    "category": "Mobile Development",
+    "readingTime": "7 min read",
+    "likes": 95,
+    "comments": 10,
+    "url": "https://example.com/blog/mastering-react-native-ui"
+  }
+]
